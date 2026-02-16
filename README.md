@@ -1,5 +1,5 @@
-# 👋 Cosmin Nedelcu  
-📊 📊 Data Scientist | Machine Learning & IA  
+# 👋 Daniel Cosmin Nedelcu 
+📊 Data Scientist | Machine Learning & IA  
 📍 Madrid, España  
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" height="26" /> 
@@ -12,10 +12,9 @@ Transformo datos en **pipelines, modelos y APIs** listos para producto: automati
 ---
 
 ## 🧠 Resumen Profesional
-Perfil técnico en formación con enfoque **Data Engineering + Machine Learning**, trabajando el ciclo completo del dato:  
-**extracción (APIs) → ETL → almacenamiento (cloud) → modelado → despliegue (API)**.
+Data Scientist en formación especializada, con una base sólida en análisis de datos, estadística y machine learning, y experiencia práctica en proyectos de Inteligencia Artificial aplicada.
 
-Me gusta construir soluciones end-to-end: automatización, calidad de datos, monitorización y documentación clara para que cualquier equipo pueda mantener y escalar el proyecto.
+Trabajo el ciclo completo del dato, desde la obtención y limpieza hasta el análisis, modelado y comunicación de resultados, con un enfoque orientado a negocio, producto e impacto real.
 
 ---
 
@@ -80,19 +79,32 @@ Me gusta construir soluciones end-to-end: automatización, calidad de datos, mon
 - Datos centralizados en RDS para análisis y consumo
 - Servicio listo para integrar predicciones en producto
 
-🔗 Repositorio: **[ENLACE_A_TU_REPO]**
+🔗 Repositorio: **https://github.com/mcayuela89/GameScope_Video_Game_Intelligence_Pipeline_ML_API**
 
 ---
 
-### 📌 Proyecto de análisis / ML (Plantilla para tu 2º proyecto)
-**Objetivo:** análisis y modelado sobre un dataset real para extraer insights y construir un modelo útil.
+📌 Cinematic Data Analysis · TMDb
+Objetivo: analizar datos cinematográficos reales para identificar patrones de popularidad, géneros, votaciones e ingresos a partir de información obtenida de la API pública de The Movie Database (TMDb).
 
-**Responsabilidades:**
-- Limpieza, EDA, visualización
-- Entrenamiento y evaluación de modelos
-- Documentación del proceso
+Responsabilidades:
 
-🔗 Repositorio: **[ENLACE_A_TU_REPO_2]**
+Consumo de API REST y extracción de datos de películas
+
+Limpieza, transformación y estructuración de datos (ETL) con Python
+
+Generación de datasets en formato CSV para análisis reproducible
+
+Análisis exploratorio de datos (EDA) y visualización de insights clave
+
+Resultado:
+
+Identificación de géneros y características asociados a mayor popularidad y recaudación
+
+Análisis de relaciones entre duración, presupuesto, votaciones y taquilla
+
+Pipeline de análisis documentado y reutilizable en Jupyter Notebooks
+
+🔗 Repositorio: https://github.com/mcayuela89/Cinematic_Data_Analysis_TMDb
 
 ---
 
@@ -111,9 +123,9 @@ Incorporarme como **Data Engineer / ML Engineer Junior** en equipos orientados a
 ---
 
 ## 🤝 Contacto
-📧 Email: **[TU_EMAIL]**  
-💼 LinkedIn: **[TU_LINKEDIN]**  
-🐙 GitHub: **https://github.com/[TU_USUARIO]**  
+📧 Email: **nedelcucosmin3@gmail.com**  
+💼 LinkedIn: **https://www.linkedin.com/in/cosmin-daniel-nedelcu/**  
+🐙 GitHub: **https://github.com/Danii315** 
 🌐 Portfolio: **[TU_WEB]**
 
 ---
@@ -125,4 +137,5 @@ Incorporarme como **Data Engineer / ML Engineer Junior** en equipos orientados a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
 -->
 
-⭐ Gracias por visitar mi perfil. Estoy abierto a nuevas oportunidades, colaboración y proyectos interesantes.
+⭐ Gracias por visitar mi perfil.
+    Estoy abierto a nuevas oportunidades, colaboración y proyectos interesantes.
