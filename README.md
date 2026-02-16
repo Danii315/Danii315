@@ -2,16 +2,16 @@
 📊 📊 Data Scientist | Machine Learning & IA  
 📍 Madrid, España  
 
-![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?logo=scikitlearn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000?logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 Transformo datos en **pipelines, modelos y APIs** listos para producto: automatizados, reproducibles y pensados para generar impacto real.
 
