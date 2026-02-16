@@ -124,7 +124,7 @@ Incorporarme como **Data Engineer / ML Engineer Junior** en equipos orientados a
 
 ## 🤝 Contacto
 📧 Email: **nedelcucosmin3@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/cosmin-daniel-nedelcu/**  
+💼 LinkedIn: **https://www.linkedin.com/in/daniel-cosmin-nedelcu/**  
 🐙 GitHub: **https://github.com/Danii315** 
 🌐 Portfolio: **[TU_WEB]**
 
